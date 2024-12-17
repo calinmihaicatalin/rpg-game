@@ -28,16 +28,15 @@ Given that the game is still under development, expect regular updates and impro
 - Bonuses from the equipment (e.g., increased HP or AP) will also be shown.
 
 ### Sound Effects:
-- The game includes sound effects for loot drops, combat, and other important actions to enhance the gaming experience.
+- The game includes sound effects for loot drops.
 
 ## How to Play
 
 1. **Start the game** and choose a character class.
-2. **Fight enemies** and gain experience.
+2. **Fight enemies** and gain drops.
 3. **Loot drops** will be displayed with a popup, showing the rarity of the item and any stat bonuses.
 4. **Equip your items** to increase your HP, AP, or other stats.
-5. Use the **inventory system** to manage your loot and equip the best items.
-6. The **sound effects** will add immersion to the combat and loot drop events.
+
 
 ## Installation
 
