@@ -33,7 +33,7 @@ Given that the game is still under development, expect regular updates and impro
 ## How to Play
 
 1. **Start the game** and choose a character class.
-2. **Fight enemies** and gain drops.
+2. **Fight enemies** and gain new equipment.
 3. **Loot drops** will be displayed with a popup, showing the rarity of the item and any stat bonuses.
 4. **Equip your items** to increase your HP, AP, or other stats.
 
