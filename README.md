@@ -1,5 +1,5 @@
 # ⚔️ RPG Game
-@2024 Calin Mihai-Catalin
+@2024 Calin Mihai-Catalin  
 
 The primary purpose of this RPG game is to provide an engaging and interactive experience where players can equip items, fight enemies, and customize their character’s stats. As you progress through the game, you can equip different types of gear (helmets, pants, weapons, etc.), which will modify your character’s attributes, such as Health Points (HP) and Attack Power (AP).
 
